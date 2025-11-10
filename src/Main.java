@@ -28,6 +28,6 @@ public class Main {
         System.out.println("Hay " + contador + " números pares entre 1 y 100.");
         System.out.println("Los números pares son:" + pares);
 
-        //entrada.close();
+        entrada.close();
     }
 }
